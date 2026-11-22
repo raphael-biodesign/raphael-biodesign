@@ -1,5 +1,5 @@
 ### Hi, I'm Raphael
 
-I run [Biodesign Academy](https://biodesign.academy), from Stockholm and London. We help designers work with living matter at the molecular level, using AI tools for proteins.
+I run [Biodesign Academy](https://biodesign.academy), from Stockholm and London. We help designers who work with living matter become [AI-native biodesigners](https://www.biodesign.academy/ai-native-biodesigner): designers who work with AI throughout a project, not just at one step, while staying close to the organisms and materials they make with.
 
-Here you'll find the free, open tools we make. The first is **[Protein Backstory](https://raphael-biodesign.github.io/protein-backstory/)**: paste in a protein's UniProt ID and see what the databases say about where it came from, and what they leave out.
+We also share open work here as it develops, starting with [Protein Backstory](https://raphael-biodesign.github.io/protein-backstory/), on where biological data comes from and who it is owed to.
